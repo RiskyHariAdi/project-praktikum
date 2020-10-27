@@ -1,10 +1,10 @@
 # Tugas ini untuk melengkapi pertemuan ke 6
 # Dan menjelaskan project
 
-**Nama :Risky HariAdi**
-**Nim  :312010124**
-**Kelas:TI.A1.20**
-**Tugas:Bahasa Pemrogramman**
+**Nama :Risky HariAdi** <br>
+**Nim  :312010124** <br>
+**Kelas:TI.A1.20** <br>
+**Tugas:Bahasa Pemrogramman** <br>
 
 # Pengertian print <br>
 
