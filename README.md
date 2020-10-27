@@ -9,5 +9,10 @@
 # Pengertian print <br>
 
 `print` <br>
-print("Tugas ini untuk melengkapi pertemuan 6") <br>
+*print("Tugas ini untuk melengkapi pertemuan 6") <br>
+
 ![print](poto/print.png) <br>
+
+* Menampilkan text di atas<br>
+
+![project](poto/project.png) <br>
