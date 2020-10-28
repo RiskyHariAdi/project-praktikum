@@ -61,7 +61,7 @@ Penggunaan (END) <br>
 
 ![HasilEnd](poto/hasilend.png)
 
-# Penggunaan separtor <br>
+# Penggunaan separator <br>
 
 **`w, d, y, z = 10, 15, 20, 25`** <br>
 
@@ -70,5 +70,6 @@ Penggunaan (END) <br>
 * `y 20` <br>
 * `z 25` <br> 
 
-![Seperator](poto/seperator.png) <br
->
+![Seperator](poto/separator.png)
+
+
