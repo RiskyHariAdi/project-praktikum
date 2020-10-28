@@ -78,7 +78,7 @@ Penggunaan (END) <br>
 
 ![sep](poto/hasilsepbaru.png)
 
- * Dan bisa di liat setelah memasukan *sep='+'*,*sep='-'*,*sep=':'*,*sep='/'*,*sep='*'*,*sep='-----'*,*sep='='* dan di setiap angka ada +,-,:,/,*,-----,= <br>
+ * Dan bisa di liat setelah memasukan **sep='+'**,**sep='-'**,**sep=':'**,**sep='/'**,**sep='*'**,**sep='-----'**,**sep='='** dan di setiap angka ada **(+)**,**(-)**,**(:)**,**(/)**,**(*)**,**(-----)**, **(=)**, <br>
 
 ![HasilSep](poto/sepjadi.png)
 
