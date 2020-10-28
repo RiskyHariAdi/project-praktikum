@@ -51,7 +51,7 @@
 ![HasilString](poto/hasilstring.png)
 
 # KOLOM 2 <br>
-Penggunaan (END) <br>
+# Penggunaan (END) <br>
 
 * Jadi Penggunaan end adalah, Untuk menyatukan semua variabel seperti contoh <br>
 
