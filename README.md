@@ -82,3 +82,7 @@ Penggunaan (END) <br>
 
 ![HasilSep](poto/sepjadi.png)
 
+**TERIMA KASIH** <br>
+
+![kelar](poto/kelar.png)
+
