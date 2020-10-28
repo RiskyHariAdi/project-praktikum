@@ -1,5 +1,7 @@
-# Tugas ini untuk melengkapi pertemuan ke 6
-# Dan menjelaskan project
+# Tugas ini untuk melengkapi pertemuan ke 6 <br>
+# Dan menjelaskan project <br>
+
+![Logo](poto/logo.png)
 
 **Nama :Risky HariAdi** <br>
 **Nim  :312010124** <br>
