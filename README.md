@@ -76,9 +76,9 @@ Penggunaan (END) <br>
 
 * sep adalah pemisah(separator) yang berfungsi sebagai tanda pemisah antar objek yang dicetak. Defaultnya adalah tanda spasi. Seperti contoh di bawah <br>
 
-![sep](poto/sep.png)
+![sep](poto/hasilsepbaru.png)
 
- Dan bisa di liat setelah memasukan sep='+', dan di setiap angka ada +
+ * Dan bisa di liat setelah memasukan *sep='+'*,*sep='-'*,*sep=':'*,*sep='/'*,*sep='*'*,*sep='-----'*,*sep='='* dan di setiap angka ada +,-,:,/,*,-----,= <br>
 
-
+![HasilSep](poto/sepjadi.png)
 
