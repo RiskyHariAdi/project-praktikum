@@ -13,6 +13,12 @@
 
 ![print](poto/print.png) <br>
 
-* Menampilkan text di atas<br>
+* Menampilkan hasil print<br>
 
 ![project](poto/project.png) <br>
+
+# Bitwise (,) <br>
+
+* Bitwise adalah operator khusus untuk menangani operasi logika bilangan biner dalam bentuk bit. <br>
+
+![Bitwesh](poto/bitwesh.png) <br>
