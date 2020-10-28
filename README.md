@@ -70,6 +70,15 @@ Penggunaan (END) <br>
 * `y 20` <br>
 * `z 25` <br> 
 
-![Seperator](poto/separator.png)
+![Separator](poto/separator.png)
+
+# Pengertian SEP <br>
+
+* sep adalah pemisah(separator) yang berfungsi sebagai tanda pemisah antar objek yang dicetak. Defaultnya adalah tanda spasi. Seperti contoh di bawah <br>
+
+![sep](poto/sep.png)
+
+ Dan bisa di liat setelah memasukan sep='+', dan di setiap angka ada +
+
 
 
