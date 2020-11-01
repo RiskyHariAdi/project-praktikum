@@ -1,0 +1,5 @@
+ini adalah data text yang dibuat dengan menggunakan data python
+Hallo perkenalkan nama saya ikky
+Saya sekolah di UNIVERSITAS PELITA BANGSA
+Saya masih belajar
+Dan masih belom bisa atuh
