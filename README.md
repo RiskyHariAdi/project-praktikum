@@ -14,7 +14,6 @@ DAFTAR ISI
 | 1 | Tugas Pertemuan 5 | [click here](#pertemuan-5---tugas)
 | 2 | Tugas Pertemuan 6 - Lab 1 | [click here](#pertemuan-6---lab-1)
 | 3 | Tugas Pertemuan 6 - Lab 1-2 | [click here](#pertemuan-6---lab-1-2)
-| 4 | Tugas Pertemuan 6 - Lab 2 | [click here](#pertemuan-6---lab-2)
  
 ## Pertemuan 5 - Tugas
 
@@ -320,7 +319,13 @@ Hasil dari source code contoh diatas akan muncul seperti ini :<br>
 ![sourcecode](poto/sourcecode.png)
 <br><br>
 
+String Format
+
+![sstringg](poto/sstringg.png)
+
+
 Untuk hasil dari String Format 2 adalah :<br>
+
 ![Output String Format 2](gambar/string2.PNG)
 
 <br><hr><br>
@@ -400,6 +405,10 @@ Untuk hasil dari String Format 2 adalah :<br>
  * Dan bisa di liat setelah memasukan **sep='+'**,**sep='-'**,**sep=':'**,**sep='/'**,**sep='*'**,**sep='-----'**,**sep='='** dan di setiap angka ada **(+)**,**(-)**,**(:)**,**(/)**,**(*)**,**(-----)**, **(=)**, <br>
 
 ![HasilSep](poto/sepjadi.png)
+
+Contoh syntax variabel : <br>
+
+![hasilvariable](poto/hasilvariable.png)
 
 **TERIMA KASIH** <br>
 
