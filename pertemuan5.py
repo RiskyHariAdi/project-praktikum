@@ -1,3 +1,4 @@
+
 print("==============================") 
 print("= NAMA    : Risky HariAdi     ") 
 print("= NIM     : 312010124         ")
