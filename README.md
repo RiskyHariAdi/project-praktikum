@@ -315,7 +315,8 @@ Dengan ketentuan sebagai berikut, Operasi pangkat dengan angka kiri sebagai poko
 
  ![Operasi Aritmatika Pangkat](poto/hasilstringg.png)
  
- 2 ** String Format 2** <br>
+ **String Format 2** <br>
+ 
  Pada syntax atau source code string format dua akan menampilkan output berupa 2 output'an juga (seperti String Format 1, yaitu kanan dan kiri )<br>
  Dengan ketentuan sebagai berikut : <br>
  >secara Default, **.format()** menggunakan rata kiri, angka ke kanan. kita dapat menggunakan opsi opsional <,^, atau > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan **.format()** sebagai berikut :<br> 
@@ -329,7 +330,9 @@ Dengan ketentuan sebagai berikut, Operasi pangkat dengan angka kiri sebagai poko
 ```
 
 Hasil dari source code contoh diatas akan seperti berikut :<br>
+
 ![hhasilstring](poto/hhasilstring.png)
+
 >Secara Default,**.format()** menggunakan rata text ke kiri, angka ke kanan, kita dapat menggunakan opsi opsional<,^,atau > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan **.format()** sebagai berikut : <br>
 
 ``` python
