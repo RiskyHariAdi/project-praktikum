@@ -330,8 +330,8 @@ Hasil dari source code contoh diatas akan seperti berikut :<br>
 
 ``` python
 
-`print('{:<30}{:30}{:>30}'.format('kiri','tengah','kanan'))`
-`print('{:<30}{:30}{:>30}'.format(7,20,34))`
+`print('{:<30}{:30}{:>30}'.format('mobil','ufo','pesawat'))`
+`print('{:<30}{:30}{:>30}'.format(10,20,15))`
 
 ```
 
