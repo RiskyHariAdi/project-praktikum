@@ -87,31 +87,47 @@ pada gambar di atas, hasil dari inputan tersebut berwarna *hijau* <br>
 
 * Untuk menghitung rumus saya menggunakan variable *DOB* yaitu 2020 (Tahun sekarang) dikurangin dengan Year of Birt, pada source code berikut : <br>
 ``` python 
+
+
+
 dob=input("2020-year") <br>
+
+
+
 ``` <br>
 Pada syntax/source diatas, saya menggunakan variable (dob) dimana untuk menghitung umur (variable **age** pada output), yaitu dengan rumus pada variable *dob=input("2020-year")* <br>
 
 * langkah kali ini saya akan menampilkan output yang diminta oleh dosen.output pertama yang diminta Dosen adalah menampilkan salam, yaitu dengan mengetikkan syntax/source code berikut : <br>
 
 ``` python
-
-`print("\n\n Assalamu'alaikum. ")` <br>
+print("\n\n Assalamu'alaikum. ")` <br>
 ``` <br>
+
  Keterangan : <br>
 1. Fungsi **\n** pada source code di atas adalah untuk memberi baris baru / enter / *(newline)* <br>
 2. Fungsi print() seperti dijelaskan pada point **Output** diatas
 Hasil dari source code diatas adalah seperti gambar dibawah ini : <br>
 
+
 ![outputsalam](poto/outputsalam.png) <br>
+
+
+
 
 ``` python
 
+
 print(f"Let me introduce my self, my name is {fullname}, but you can call me {nickname}, my NPM {npm}, I was born in {pob} and iam {dob} years old, I am very glad if you want to invite my house in {address}, So don't forget to call me before with the number {phone}, \n\n Thanks you ")
-``` 
+
+
+```
+
+
 Keterangan : 
 1. Fungsi huruf **f** pada perintah *print(f"....")* adalah fungsi print atau bisa memudahkan programer dalam mencetak statement dalam satu baris dibandingkan dengan metode yang lama yaitu memisahkan string dan variable dengan simbol koma( , ) atau plus ( + )<br>
 2. sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable<br>
 Hasil dari output tersebut seperti berikut :<br>
+
 ![semuaoutput](poto/semuaoutput.png)
 
 <br>
@@ -122,7 +138,12 @@ Hasil dari output tersebut seperti berikut :<br>
 
 Pada halaman ini (Tugas Pertemuan 6 - Lab 1) saya diberikan tugas oleh Dosen yaitu mempelajari operator aritmatika menggunakan bahasa Pemrograman pyhton. Berikut source code yang di berikan oleh dosen : <br>
 
+
+
+
 ``` python
+
+
 
 #penggunaan end
 print('A', end='')
@@ -177,7 +198,10 @@ Penggunaan end digunakan untuk menambahkan karakter yang dicetak di akhir baris.
 
 Hasil dari source code tersebut seperti gambar dibawah ini :<br>
 
+
 ![outputend](poto/outputend.png)
+
+
 
 * Penggunaan separator
 
@@ -316,17 +340,26 @@ Hasil dari source code contoh diatas akan seperti berikut :<br>
 ```
 
 Hasil dari source code contoh diatas akan muncul seperti ini :<br>
+
+
 ![sourcecode](poto/sourcecode.png)
+
+
 <br><br>
 
-String Format
+* Konversi Nilai Variable
+Untuk pembahasan terakhir, kali ini akan menyelesaikan tugas Lab 2 dari Dosen, yaitu konversi Nilai Variable
+Tugas <br>
 
-![sstringg](poto/sstringg.png)
+![labb](poto/labb.png)
 
+String Format 2
+
+![stringformatt](poto/stringformatt.png)
 
 Untuk hasil dari String Format 2 adalah :<br>
 
-![Output String Format 2](gambar/string2.PNG)
+![hasilvariable](poto/hasilvariable.png)
 
 <br><hr><br>
 
@@ -344,8 +377,7 @@ Untuk hasil dari String Format 2 adalah :<br>
 
 Contoh syntax variabel : <br>
 
-![hasilvariable](poto/hasilvariable.png)
-
 **TERIMA KASIH** <br>
+
 
 ![kelar](poto/kelar.png)
