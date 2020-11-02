@@ -13,7 +13,7 @@ DAFTAR ISI
 | ----- | ----- | ----- |
 | 1 | Tugas Pertemuan 5 | [click here](#pertemuan-5---tugas)
 | 2 | Tugas Pertemuan 6 - Lab 1 | [click here](#pertemuan-6---lab-1)
-| 3 | Tugas Pertemuan 6 - Lab 1-2 | [click here](#pertemuan-6---lab-1-2)
+| 3 | Tugas Pertemuan 6 - Lab 1 dan 2 | [click here](#pertemuan-6---lab 1 Dan 2)
  
 ## Pertemuan 5 - Tugas
 
@@ -242,7 +242,7 @@ w,x,y,z=10,15,20,25
 <hr>
 <br>
 
-## Pertemuan 6 - Lab 1-2
+## Pertemuan 6 - Lab 1 Dan 2
 
 * String Format<br>
 String formatting atau pemformatan string memungkinan kita menyuntikkan item kedalam string dari pada kita mencoba menggabungkan string menggunakan koma atau string concatenation.<br>
