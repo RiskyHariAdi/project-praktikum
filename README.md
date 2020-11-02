@@ -399,20 +399,6 @@ Untuk hasil dari String Format 2 adalah :<br>
 
 <br><hr><br>
 
-# Pengertian print <br>
-
-`print` <br>
-
-* print("Tugas ini untuk melengkapi pertemuan 6") <br>
-
-![print](poto/print.png) <br>
-
-* Menampilkan hasil print<br>
-
-![project](poto/project.png) <br>
-
-Contoh syntax variabel : <br>
-
 **TERIMA KASIH** <br>
 
 
